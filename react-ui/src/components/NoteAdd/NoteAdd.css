@@ -1,0 +1,14 @@
+.AddNote {
+  /*border-style:solid;*/
+  /*border-width:1px;*/
+}
+
+.inputAddNote {
+    display:inline-block;
+    /*float:left;*/
+}
+
+.buttonAddNote {
+  display:inline-block;
+  /*float:left;*/
+}
